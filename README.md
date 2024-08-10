@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kasamba Lumwagi
 - 👀 I’m interested in Data Engineering & cloud technologies
-- 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on Cloud 
 - 📫 How to reach me kasambalumwagi@gmail.com
 
